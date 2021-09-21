@@ -1,1 +1,5 @@
-alter("Git it.")
+alter("Git it.");
+
+function gitIt() {
+    console.log("Git it.");
+}
